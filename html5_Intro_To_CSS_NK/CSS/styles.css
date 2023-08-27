@@ -1,0 +1,72 @@
+html {
+    background-color: #465902;
+}
+
+body {
+    background-color: white;
+    width: 960px;
+    margin: 20px auto;
+    border-radius: 20px;
+}
+
+header {
+    padding: 20px;
+    text-align: center;
+}
+
+header img {
+    display: block;
+    margin: 20px auto;
+    width: 30%;
+}
+
+nav {
+    background-color: #F3983F;
+    padding: 20px;
+    text-align: center;
+}
+
+nav a {
+    color: #465902;
+    font-size: 28px;
+    margin: 0 20px;
+}
+/*vv you can style indiviual elements such as <a> tags in nav*/
+nav a:hover {
+    color: #D93D04;
+    text-decoration: none;
+}
+
+main {
+    padding: 20px;
+}
+
+main img {
+    display: block;
+    margin: 20px auto;
+    width: 35%;
+}
+
+footer {
+    background-color: #f3983f;
+    text-align: center;
+    padding: 20px 0;
+    border-radius: 0 0 20px 20px;
+}
+
+a {
+    color: #465902;
+}
+
+a:hover {
+    color: #f3983f;
+    text-decoration: none;
+}
+
+h1, h2, h3 {
+    color: #465902;
+}
+
+img {
+    width: 50%;
+}
