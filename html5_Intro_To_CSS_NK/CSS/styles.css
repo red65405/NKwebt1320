@@ -3,7 +3,7 @@ html {
 }
 
 body {
-    background-color: white;
+    background-color: tan;
     width: 960px;
     margin: 20px auto;
     border-radius: 20px;
@@ -17,7 +17,7 @@ header {
 header img {
     display: block;
     margin: 20px auto;
-    width: 30%;
+    width: 35%;
 }
 
 nav {
@@ -31,9 +31,9 @@ nav a {
     font-size: 28px;
     margin: 0 20px;
 }
-/*vv you can style indiviual elements such as <a> tags in nav*/
+
 nav a:hover {
-    color: #D93D04;
+    color: white;
     text-decoration: none;
 }
 
@@ -44,7 +44,7 @@ main {
 main img {
     display: block;
     margin: 20px auto;
-    width: 35%;
+    width: 45%;
 }
 
 footer {
@@ -59,7 +59,7 @@ a {
 }
 
 a:hover {
-    color: #f3983f;
+    color: white;
     text-decoration: none;
 }
 
@@ -68,5 +68,5 @@ h1, h2, h3 {
 }
 
 img {
-    width: 50%;
+    border-radius: 10px 10px 10px 10px;
 }
