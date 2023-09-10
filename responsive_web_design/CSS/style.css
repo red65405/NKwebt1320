@@ -10,6 +10,7 @@ img {
     display: block;
     margin: 0 auto;
     width: 100%;
+    border-radius: 10px 10px 10px 10px;
 }
 
 h1, h2, h3 {
@@ -23,7 +24,7 @@ h1, h2, h3 {
 
 nav {
     background-color: #9F96D9;
-    padding-right: 2px 0;
+    padding-right: 2px;
     text-align: center;
 }
 
@@ -44,7 +45,7 @@ nav li a {
     background-color: #4F4D8C;
     color: lightgrey;
     text-decoration: none;
-    font-size: 1.3m;
+    font-size: 1.1em;
     padding: 5px 0;
 }
 
